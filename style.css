@@ -1,0 +1,133 @@
+body {
+    background: black;
+    font-family: 'Roboto', sans-serif;
+    color: whitesmoke;
+}
+
+.case_study_heading {
+    font-family: 'Luckiest Guy', cursive;
+    color: whitesmoke;
+    font-size: 60px;
+    border: 5px;
+    border-color: white;
+}
+
+.case_study_heading img {
+    width: 150px;
+    height: 140px;
+    margin: 10px;
+}
+
+.text_image_results {
+    box-shadow: 0px 8px 8px white;
+    border-top: 10px white;
+    width: 500px;
+}
+
+p {
+    margin: 10px;
+}
+
+.bulb_gif {
+    width: 70px;
+    background-color: white;
+    border-radius: 20px;
+    margin: 10px;
+}
+
+.results {
+    margin-left: 900px;
+    box-shadow: white;
+    vertical-align: center;
+}
+
+.image_1 {
+    width: 300px;
+    height: 385px;
+    margin: 30px;
+    border-radius: 70px;
+    box-shadow: 8px 8px 8px white;
+}
+
+.image_2 {
+    width: 300px;
+    height: 885px;
+    margin: 30px;
+    border-radius: 70px;
+    box-shadow: 8px 8px 8px white;
+}
+
+.image_3 {
+    width: 385px;
+    height: 300px;
+    margin: 30px;
+    border-radius: 70px;
+    box-shadow: 8px 8px 8px white;
+}
+
+.image_4 {
+    width: 365px;
+    height: 300px;
+    margin: 30px;
+    border-radius: 70px;
+    box-shadow: 8px 8px 8px white;
+}
+
+.image_5 {
+    width: 400px;
+    height: 320px;
+    margin: 30px;
+    border-radius: 70px;
+    box-shadow: 8px 8px 8px white;
+}
+
+.image_6 {
+    width: 300px;
+    height: 515px;
+    margin: 30px;
+    border-radius: 70px;
+    box-shadow: 8px 8px 8px white;
+}
+
+.image_7 {
+    width: 350px;
+    height: 485px;
+    margin: 30px;
+    border-radius: 70px;
+    box-shadow: 8px 8px 8px white;
+}
+
+.image_8 {
+    width: 380px;
+    height: 500px;
+    margin: 30px;
+    border-radius: 70px;
+    box-shadow: 8px 8px 8px white;
+}
+
+.image_9 {
+    width: 385px;
+    height: 500px;
+    margin: 30px;
+    border-radius: 70px;
+    box-shadow: 8px 8px 8px white;
+}
+
+.image_10 {
+    width: 350px;
+    height: 600px;
+    margin: 30px;
+    border-radius: 70px;
+    box-shadow: 8px 8px 8px white;
+}
+
+.copyright_footer {
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    color: rgb(255, 255, 255);
+    width: 100%;
+    background-color: rgb(34, 67, 255);
+    text-align: center;
+    line-height: 3;
+}

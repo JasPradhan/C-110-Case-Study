@@ -1,0 +1,49 @@
+1.Ball-
+Wolfram-hatbox
+
+lampshade, lamp shade
+
+2.Bottle-
+Wolfram-thermos
+
+lipstick, lip rouge
+
+3.Cork
+Wolfram-sports implement
+
+thimble
+
+4.Cube
+Wolfram-book
+
+binder, ring-binder
+
+5.Dart board
+Wolfram-earthenware
+
+buckle
+
+6.Glass
+Wolfram-liqueur glass
+
+goblet
+
+7.Mug
+Wolfram-mug
+
+coffee mug
+
+8.Plant
+Wolfram-false sago
+
+window screen
+
+9.Teddy bear
+Wolfram-jack-in-the-box
+
+espresso maker
+
+10.Watch
+Wolfram-pocket watch
+
+analog clock
